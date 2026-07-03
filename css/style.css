@@ -1,0 +1,96 @@
+:root {
+  --bg: #f7f7f5;
+  --accent: #c15f3c;
+  --accent-light: #f3e3da;
+  --blue-light: #e5eef7;
+}
+
+body {
+  background: var(--bg);
+}
+
+.admin-shell {
+  min-height: 100vh;
+}
+
+.admin-sidebar {
+  width: 240px;
+  flex-shrink: 0;
+  background: #22242a;
+}
+
+.admin-sidebar .brand {
+  color: #fff;
+}
+
+.admin-sidebar .nav-link {
+  color: #b7bac2;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.admin-sidebar .nav-link:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, .06);
+}
+
+.admin-sidebar .nav-link.active {
+  color: #fff;
+  background: var(--accent);
+}
+
+.admin-content {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 767.98px) {
+  .admin-shell {
+    flex-direction: column;
+  }
+
+  .admin-sidebar {
+    width: 100%;
+  }
+
+  .admin-sidebar .nav {
+    flex-direction: row !important;
+    flex-wrap: wrap;
+  }
+}
+
+.name-cell {
+  font-weight: 600;
+  max-width: 230px;
+}
+
+.end-date {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.tag {
+  display: inline-block;
+  background: #efece6;
+  color: #6b6558;
+  border-radius: 5px;
+  padding: 1px 6px;
+  font-size: 11px;
+  margin-top: 2px;
+}
+
+.session-table tr.current-row td {
+  background: var(--blue-light);
+  font-weight: 600;
+}
+
+.session-table tr.last-row td {
+  background: var(--accent-light);
+  font-weight: 600;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 40px 20px;
+  color: #75726b;
+}

@@ -1,0 +1,317 @@
+[
+    {
+        "name": "AI - Machine Learning và Deep Learning 06",
+        "kgDate": "2026-07-28",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 24,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "CS DATA 16",
+        "kgDate": "2026-06-15",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 16,
+        "tangKG": true,
+        "hienTai": "Ngày 29/06 học buổi 3",
+        "nghiRieng": null
+    },
+    {
+        "name": "AI - NLP, Generative AI và AI Agents 03",
+        "kgDate": "2026-07-11",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 28,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "AI Office Sáng 27",
+        "kgDate": "2026-07-26",
+        "lichHoc": "Sáng T7 , CN",
+        "soBuoi": 4,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 93",
+        "kgDate": "2026-01-10",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": "Ngày 28/06 học buổi 41",
+        "nghiRieng": null
+    },
+    {
+        "name": "Gen AI cho DN 01",
+        "kgDate": "2026-06-29",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 28,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Nodejs 56",
+        "kgDate": "2026-07-17",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 19,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp Backend JAVA 12",
+        "kgDate": "2026-01-09",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 54,
+        "tangKG": true,
+        "hienTai": "Ngày 29/6 học buổi 43",
+        "nghiRieng": "24/7/2026"
+    },
+    {
+        "name": "Testing 18",
+        "kgDate": "2026-08-02",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 34,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Testing 19",
+        "kgDate": "2026-07-10",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 34,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp DotNet 08",
+        "kgDate": "2026-07-27",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 52,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "DevOps 04",
+        "kgDate": "2026-07-30",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 21,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "AI Office 24",
+        "kgDate": "2026-06-28",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 4,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "N8N 03",
+        "kgDate": "2026-07-28",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 8,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "AI Office 26",
+        "kgDate": "2026-07-09",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 4,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp DotNet 06",
+        "kgDate": "2026-01-08",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 52,
+        "tangKG": true,
+        "hienTai": "Ngày 30/06 học buổi 42",
+        "nghiRieng": null
+    },
+    {
+        "name": "MOS Excel 01 2B",
+        "kgDate": "2026-07-15",
+        "lichHoc": "Tối T4 , T7 - Ca 1",
+        "soBuoi": 6,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": "25/7/2026"
+    },
+    {
+        "name": "MOS Excel 02 2B",
+        "kgDate": "2026-07-15",
+        "lichHoc": "Tối T4 , T7 - Ca 2",
+        "soBuoi": 6,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": "25/7/2026"
+    },
+    {
+        "name": "DA Adv 05",
+        "kgDate": "2026-07-26",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 22,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "PowerBI 02",
+        "kgDate": "2026-07-10",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 8,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 98",
+        "kgDate": "2026-08-27",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "CS DATA 17",
+        "kgDate": "2026-08-06",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 16,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 94",
+        "kgDate": "2026-03-05",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": "Ngày 30/6 học buổi 31",
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 95",
+        "kgDate": "2026-01-16",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": "Ngày 26/6 học buổi 39",
+        "nghiRieng": null
+    },
+    {
+        "name": "MLOPS 01",
+        "kgDate": "2026-08-05",
+        "lichHoc": "Tối T4 , Sáng CN",
+        "soBuoi": 17,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "DevOps 03",
+        "kgDate": "2026-05-04",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 21,
+        "tangKG": false,
+        "hienTai": "Ngày 26/6 học buổi 13",
+        "nghiRieng": "24/7/2026"
+    },
+    {
+        "name": "Testing 16",
+        "kgDate": "2026-04-23",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 34,
+        "tangKG": true,
+        "hienTai": "Ngày 25/6 học buổi 17",
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 97",
+        "kgDate": "2026-05-03",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": "Ngày 28/6 học buổi 15",
+        "nghiRieng": "25/7/2026"
+    },
+    {
+        "name": "Flutter 06",
+        "kgDate": "2026-06-25",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 32,
+        "tangKG": true,
+        "hienTai": null,
+        "nghiRieng": null
+    },
+    {
+        "name": "DA Adv 04",
+        "kgDate": "2026-05-05",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 22,
+        "tangKG": true,
+        "hienTai": "Ngày 30/6 học buổi 15",
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp Backend JAVA 14",
+        "kgDate": "2026-06-02",
+        "lichHoc": "Tối T3 , T5",
+        "soBuoi": 54,
+        "tangKG": true,
+        "hienTai": "Ngày 23/6 học buổi 4",
+        "nghiRieng": "4/6/2026"
+    },
+    {
+        "name": "Bootcamp DotNet 07",
+        "kgDate": "2026-05-03",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 52,
+        "tangKG": true,
+        "hienTai": "Ngày 28/6 học buổi 15",
+        "nghiRieng": null
+    },
+    {
+        "name": "Testing 17",
+        "kgDate": "2026-05-09",
+        "lichHoc": "Chiều T7 , CN",
+        "soBuoi": 34,
+        "tangKG": true,
+        "hienTai": "Ngày 28/6 học buổi 14",
+        "nghiRieng": null
+    },
+    {
+        "name": "Bootcamp 96",
+        "kgDate": "2026-05-22",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 44,
+        "tangKG": true,
+        "hienTai": "Ngày 29/06 học buổi 11",
+        "nghiRieng": null
+    },
+    {
+        "name": "Cloud Engineer 01 ",
+        "kgDate": "2026-07-31",
+        "lichHoc": "Tối T2 , T6",
+        "soBuoi": 17,
+        "tangKG": false,
+        "hienTai": null,
+        "nghiRieng": null
+    }
+]
